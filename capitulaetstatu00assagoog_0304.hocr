@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./capitulaetstatu00assagoog_0304.png"; bbox 0 0 4800 6696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1001 2872 1689 2943">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1001 2872 1689 2943">
+     <span class='ocr_line' id='line_1_1' title="bbox 1001 2872 1689 2943; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1001 2872 1337 2943; x_wconf 89' lang='lat' dir='ltr'>STABILIMENTO</span> <span class='ocrx_word' id='word_1_2' title='bbox 1372 2873 1689 2943; x_wconf 88' lang='lat' dir='ltr'><strong>BONTEMPELLI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 760 3018 1932 3193">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 760 3018 1932 3193">
+     <span class='ocr_line' id='line_1_2' title="bbox 760 3018 1932 3084; baseline -0.002 -17"><span class='ocrx_word' id='word_1_3' title='bbox 760 3021 908 3067; x_wconf 78' lang='lat' dir='ltr'>OFFICINA</span> <span class='ocrx_word' id='word_1_4' title='bbox 932 3020 1143 3067; x_wconf 82' lang='lat' dir='ltr'><strong>INDUSTRIALE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1166 3020 1200 3067; x_wconf 87' lang='lat' dir='ltr'>DI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1223 3018 1457 3067; x_wconf 79' lang='lat' dir='ltr'>CARTE·VALORI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1479 3036 1506 3049; x_wconf 93' lang='lat'>··</span> <span class='ocrx_word' id='word_1_8' title='bbox 1527 3020 1619 3067; x_wconf 79' lang='lat' dir='ltr'>ROMA</span> <span class='ocrx_word' id='word_1_9' title='bbox 1642 3020 1697 3066; x_wconf 79' lang='lat' dir='ltr'>VIA</span> <span class='ocrx_word' id='word_1_10' title='bbox 1720 3021 1855 3081; x_wconf 81' lang='lat' dir='ltr'>MILANO,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1880 3020 1932 3084; x_wconf 86' lang='grc'>29.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1241 3121 1449 3193; baseline 0 -16"><span class='ocrx_word' id='word_1_12' title='bbox 1241 3138 1353 3179; x_wconf 68' lang='lat' dir='ltr'>memo</span> <span class='ocrx_word' id='word_1_13' title='bbox 1376 3121 1449 3193; x_wconf 83' lang='lat'>1892.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2404 6692">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2404 6692">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2404 6692; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2404 6692; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
